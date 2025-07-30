@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-quality-assurance",
+  "version": "1.0.0",
+  "description": "Este repositório contém exemplos de testes manuais e automatizados desenvolvidos para fins de estudo e demonstração prática das minhas habilidades como QA (Quality Assurance).",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.5.3"
+  }
+}
